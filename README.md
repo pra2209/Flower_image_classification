@@ -7,7 +7,7 @@ flowers. They already have have invested on curating sample images. They require
 create a classifier capable of determining a flower’s species from a photo
 DATA DESCRIPTION: The dataset comprises of images from 17 plant species.
 
-Steps and tasks: [ Total Score: 25 points]
+Steps and tasks:
 1. Import the data. Analyse the dimensions of the data.
 2. Preprocess the data.
 3. Data visualisation:
